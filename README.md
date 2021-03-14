@@ -36,10 +36,6 @@ And Teachers can also add timer for every each section , after the time is over 
 ![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/studentlogin.jpg?raw=true)
 Students can create account or login into the portal to take the quiz.
 
-* ### Question answer palette
-![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/Section.png?raw=true)
-Students need to select the answer based on the section and submit it before section timer ends . Switch sec feature allows to change section.
-
 * ### Leaderboard
 It shows the marks of students who have already completed the test.
 
@@ -47,6 +43,4 @@ It shows the marks of students who have already completed the test.
 ![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/Screenshot%20(47).png?raw=true)
 Rating shows the marks rating student got and the student can also give rating , on submitting they will see their scores.
 
-##  Contributors
-* <b> Harshit Sinha </b> - [harshitsinha860](https://github.com/harshitsinha860)
-* <b> Manvendra Singh </b> - [Man-vendra](https://github.com/Man-vendra)
+
