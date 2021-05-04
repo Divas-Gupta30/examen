@@ -1,5 +1,5 @@
-# Quiz-Portal 
- Quiz Portal is a *robust* , *intuitive* and *secure* desktop **JAVA** application 
+# examen
+ examen is a *robust* , *intuitive* and *secure* desktop **JAVA** application 
  This application is implemented using a GUI toolkit in java called **SWING**.
  The code is written entirely in java and the libraries used are -
  1. javax.swing
@@ -7,10 +7,10 @@
  3. java.sql
  4. java.net
  
- ### What makes Quiz Portal so secure ? 
+ ### What makes examen so secure ? 
  Quiz Portal is secure because the server is responsible for dealing with the database ensuring that the client does not have direct access to it.
   
- ### Feautures of Quiz Portal -
+ ### Feautures of examen -
  
  * ### Home
  
