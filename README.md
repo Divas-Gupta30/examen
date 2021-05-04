@@ -32,11 +32,6 @@ Teachers can post questions of various types such as
 - True/false 
 And Teachers can also add timer for every each section , after the time is over each section ends.
 
-* ### Student Login / Register
-![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/studentlogin.jpg?raw=true)
-Students can create account or login into the portal to take the quiz.
 
-
-Rating shows the marks rating student got and the student can also give rating , on submitting they will see their scores.
 
 
