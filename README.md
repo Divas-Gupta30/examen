@@ -8,7 +8,7 @@
  4. java.net
  
  ### What makes examen so secure ? 
- Quiz Portal is secure because the server is responsible for dealing with the database ensuring that the client does not have direct access to it.
+ examen is secure because the server is responsible for dealing with the database ensuring that the client does not have direct access to it.
   
  ### Feautures of examen -
  
